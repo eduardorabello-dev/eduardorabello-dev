@@ -22,7 +22,7 @@ No trabalho, desenvolvi em PowerShell uma automação que monitora a expiração
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [sistema-oficina-c](https://github.com/Ed-a07/sistema-oficina-c) | Sistema de terminal para gestão de ordens de serviço de uma oficina mecânica: cadastro, status, busca por placa e relatório financeiro | C |
+| [sistema-oficina-c](https://github.com/eduardorabello-dev/sistema-oficina-c) | Sistema de terminal para gestão de ordens de serviço de uma oficina mecânica: cadastro, status, busca por placa e relatório financeiro | C |
 
 Mais projetos em breve.
 

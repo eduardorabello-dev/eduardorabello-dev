@@ -23,6 +23,7 @@ No trabalho, desenvolvi em PowerShell uma automação que monitora a expiração
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | [sistema-oficina-c](https://github.com/eduardorabello-dev/sistema-oficina-c) | Sistema de terminal para gestão de ordens de serviço de uma oficina mecânica: cadastro, status, busca por placa e relatório financeiro | C |
+| [monitor-senhas-powershell](https://github.com/eduardorabello-dev/monitor-senhas-powershell) | Automação que monitora a expiração de senhas de usuários e classifica cada um por nível de urgência (crítico, atenção ou cuidado) | PowerShell |
 
 Mais projetos em breve.
 
